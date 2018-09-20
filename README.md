@@ -1,6 +1,7 @@
 # RNA_seq
- analysis the RNA_seq step by step
- Folder breakdown
+analysis the RNA_seq step by step
+
+**Folder breakdown**
  ```
 ── new_workflow/
   │   └── annotation/               <- Genome annotation file (.GTF/.GFF)
